@@ -11,4 +11,7 @@ O projeto fornece um arquivo PDF com informações sobre uma pessoa imaginária.
 
 Para obter o escopo completo deste projeto, você precisa entender os conceitos básicos de Python, bem como os fundamentos da IA1.
 
+# **Estes códigos não funcionam fora de ambientes da IBM.**:
 
+---
+Necessárias bibliotecas disponíveis apenas na Cloud da IBM.
